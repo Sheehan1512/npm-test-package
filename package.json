@@ -1,0 +1,22 @@
+{
+  "name": "coin-toss-sheehan",
+  "version": "1.0.0",
+  "description": "coin toss package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sheehan1512/npm-test-package.git"
+  },
+  "keywords": [
+    "coin"
+  ],
+  "author": "Sheehan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sheehan1512/npm-test-package/issues"
+  },
+  "homepage": "https://github.com/Sheehan1512/npm-test-package#readme"
+}
